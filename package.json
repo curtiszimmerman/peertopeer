@@ -1,0 +1,25 @@
+{
+  "name": "peertopeer",
+  "version": "0.0.0",
+  "description": "P2P communication",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curtiszimmerman/peertopeer.git"
+  },
+  "keywords": [
+    "peertopeer"
+  ],
+  "author": "curtis zimmerman",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/curtiszimmerman/peertopeer/issues"
+  },
+  "homepage": "https://github.com/curtiszimmerman/peertopeer#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
